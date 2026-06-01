@@ -17,9 +17,9 @@
 
 ## About me
 
-I'm a Master's student at Deakin University (graduating 2025) majoring in **Cyber Security and Software Development**. I build full-stack applications, work with cloud infrastructure, and have a genuine interest in how systems break — and how to stop them from breaking.
+I'm a Deakin University graduate (MIT, 2025) with a double major in **Cyber Security and Software Development**. I build full-stack applications, work with cloud infrastructure, and have a genuine interest in how systems break — and how to stop them from breaking.
 
-I'm actively looking for **graduate software engineering, cybersecurity, or data roles** in Australia. I hold a Subclass 485 visa — full work rights, no sponsorship needed.
+I'm actively looking for **software engineering, cybersecurity, or data roles** in Australia. I hold a Subclass 485 visa — full work rights, no sponsorship needed.
 
 ---
 
@@ -82,7 +82,7 @@ Cloud-based web app with authentication, configuration management, and CRUD. Bui
 
 ## Currently
 
-- 🎓 Finishing MIT (Professional) at Deakin — graduation 2025
+- 🎓 MIT (Professional) graduate, Deakin University — 2025
 - 🔍 Open to graduate roles: software engineering, security, data, banking tech
 - 🏗️ Building an AI-powered job automation system (Python · Next.js · Supabase · Claude API)
 - 📍 Melbourne, VIC — available immediately
