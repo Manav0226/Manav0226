@@ -17,7 +17,7 @@
 
 ## About me
 
-I'm a Deakin University graduate (MIT, 2025) with a double major in **Cyber Security and Software Development**. I build full-stack applications, work with cloud infrastructure, and have a genuine interest in how systems break — and how to stop them from breaking.
+I'm a Deakin University graduate (Master of IT (Professional), 2025) with a double major in **Cyber Security and Software Development**. I build full-stack applications, work with cloud infrastructure, and have a genuine interest in how systems break — and how to stop them from breaking.
 
 I'm actively looking for **software engineering, cybersecurity, or data roles** in Australia. I hold a Subclass 485 visa — full work rights, no sponsorship needed.
 
@@ -67,6 +67,23 @@ Cloud-based web app with authentication, configuration management, and CRUD. Bui
 
 ---
 
+### 🤖 FRIDAY — Multi-Agent AI Orchestration System
+> LangGraph · Multi-Agent Systems · Zero-Trust Auth
+
+A multi-agent AI orchestration system built with LangGraph, coordinating 6 specialist agents through a 4-tier vector memory that persists context across sessions. Every inter-agent call is authenticated and logged under a zero-trust model.
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manav0226/Manav0226/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manav0226/Manav0226/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Manav0226/Manav0226/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ## GitHub stats
 
 <p align="center">
@@ -75,14 +92,14 @@ Cloud-based web app with authentication, configuration management, and CRUD. Bui
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manav0226&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Manav0226&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
 ## Currently
 
-- 🎓 MIT (Professional) graduate, Deakin University — 2025
+- 🎓 Master of IT (Professional) graduate, Deakin University — 2025
 - 🔍 Open to graduate roles: software engineering, security, data, banking tech
 - 🏗️ Building an AI-powered job automation system (Python · Next.js · Supabase · Claude API)
 - 📍 Melbourne, VIC — available immediately
