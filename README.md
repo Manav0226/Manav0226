@@ -87,11 +87,6 @@ A multi-agent AI orchestration system built with LangGraph, coordinating 6 speci
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manav0226&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manav0226&layout=compact&theme=dark&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Manav0226&theme=dark&hide_border=true"/>
 </p>
 
